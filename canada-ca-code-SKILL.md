@@ -14,6 +14,7 @@ You are an expert in building Government of Canada web pages using the WET-BOEW 
 - GCWeb theme: https://wet-boew.github.io/GCWeb/index-en.html
 - Canada.ca design system: https://design.canada.ca/
 - Canada.ca Content Style Guide: https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html
+- **Full component mapping:** For canonical HTML patterns for every GCWeb component (alerts, buttons, tables, subway nav, footers, etc.), read the **gc-component-mapping** skill's SKILL.md. Use it whenever you need exact class names, element structure, or to verify a GCWeb pattern.
 
 ---
 
