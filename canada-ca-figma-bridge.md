@@ -158,10 +158,10 @@ For the full mapping with canonical HTML patterns, read the `gc-component-mappin
 
 When using the Figma MCP to read or write frames:
 
-- **Always specify the library file key** (`8vPYwBpcscTJfI4Z6qzESX`) when inserting components — don't use local copies.
+- **Always specify the library file key** (`********`) when inserting components — don't use local copies.
 - **Component names are case-sensitive** in the Figma API. Use exact names from the mapping table.
 - **The GCWeb menu is AJAX-loaded** — represent it in Figma as a static placeholder; don't try to replicate the full dynamic menu.
-- **When reading a Figma frame**, check whether components are library instances (linked to `8vPYwBpcscTJfI4Z6qzESX`) or detached/custom frames. Detached instances should be treated as custom elements.
+- **When reading a Figma frame**, check whether components are library instances (linked to `*********`) or detached/custom frames. Detached instances should be treated as custom elements.
 - **Page width:** Use 1440px artboard with a 12-column grid at 992px content width (matching GCWeb's Bootstrap 3 grid).
 
 ---
