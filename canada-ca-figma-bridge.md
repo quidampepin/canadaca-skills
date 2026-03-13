@@ -24,7 +24,7 @@ Both directions share the same component mapping. Custom elements (no official c
 
 ## Core References
 
-- **Figma library file key:** `8vPYwBpcscTJfI4Z6qzESX` (GC Design Library – IRCC)
+- **Figma library file key:** `*********` (GC Design Library – IRCC)
 - **GCWeb docs:** https://wet-boew.github.io/GCWeb/index-en.html
 - **Canada.ca design system:** https://design.canada.ca/
 - **Full component mapping:** Read the **gc-component-mapping** skill's SKILL.md before starting any conversion task. It contains all 37+ verified Figma component names, canonical HTML patterns, mandatory/provisional status, and reconciliation notes.
@@ -46,7 +46,7 @@ Both directions share the same component mapping. Custom elements (no official c
    - Custom/departmental patterns (classes not in GCWeb docs)
 
 3. **Map to Figma components** — for each element:
-   - If a matching Figma component exists → use it from the library (`8vPYwBpcscTJfI4Z6qzESX`)
+   - If a matching Figma component exists → use it from the library (`***********`)
    - If no component exists → build a custom frame (see Custom Elements below)
 
 4. **Assemble the frame** — lay out components top-to-bottom in page order. Use the GCWeb 12-column grid (992px desktop baseline). Match spacing using the library's spacing tokens where available.
